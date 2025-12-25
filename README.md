@@ -6,7 +6,7 @@ Webアプリケーション開発に関する技術ドキュメントをMkDocs�
 
 ## 公開URL
 
-- **ドキュメントサイト**: <https://im-sts-miyamoto.github.io/mkdocs/>
+- **ドキュメントサイト**: <https://im-sts-k-watanabe.github.io/web-app-knowledge/>
 
 ## コンテンツ
 

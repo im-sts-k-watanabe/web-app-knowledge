@@ -1,7 +1,7 @@
 site_name: 汎用ドキュメント置き場
-site_url: https://im-sts-miyamoto.github.io/mkdocs/
-repo_name: im-sts-miyamoto/mkdocs
-repo_url: https://github.com/im-sts-miyamoto/mkdocs
+site_url: https://im-sts-k-watanabe.github.io/web-app-knowledge/
+repo_name: im-sts-k-watanabe/web-app-knowledge
+repo_url: https://github.com/im-sts-k-watanabe/web-app-knowledge
 docs_dir: src
 site_dir: ../site
 theme:

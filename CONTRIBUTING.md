@@ -19,7 +19,7 @@
 1. リポジトリをクローン
 
    ```bash
-   git clone git@github.com:im-sts-miyamoto/mkdocs.git
+   git clone git@github.com:im-sts-k-watanabe/web-app-knowledge.git
    cd mkdocs
    ```
 
@@ -61,7 +61,7 @@ mkdocs serve
 
 ### 公開URL
 
-- **ドキュメントサイト**: <https://im-sts-miyamoto.github.io/mkdocs/>
+- **ドキュメントサイト**: <https://im-sts-k-watanabe.github.io/web-app-knowledge/>
 
 ### デプロイ方法
 
